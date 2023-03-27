@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: weather-forecast-api
+  annotations:
+    github.com/project-slug: Dan-Kenobi/weather-forecast-api
+spec:
+  type: other
+  lifecycle: unknown
+  owner: dan-kenobi
